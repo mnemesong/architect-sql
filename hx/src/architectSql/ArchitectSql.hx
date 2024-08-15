@@ -1,0 +1,5 @@
+package architectSql;
+
+class ArchitectSql {
+    
+}

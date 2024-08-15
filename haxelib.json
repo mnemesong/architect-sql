@@ -1,0 +1,17 @@
+{
+    "name": "architect-sql",
+    "license": "MIT",
+    "tags": [
+        "architect-sql",
+        "architectSql"
+    ],
+    "description": "#{description}",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See #{githubUrl}/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "#{githubUrl}",
+    "classPath": "hx/src",
+    "dependencies": {}
+}

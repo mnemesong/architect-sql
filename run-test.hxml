@@ -1,0 +1,5 @@
+--library architect-core
+--class-path hx/src
+--class-path hx/test
+--main architectSqlTest.ArchitectSqlTest
+--interp
